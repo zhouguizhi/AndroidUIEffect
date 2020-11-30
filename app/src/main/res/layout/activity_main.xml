@@ -21,6 +21,13 @@
                 android:text="绘制基本view"
                 android:onClick="onClickBaseViewListener"
                 />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center"
+                android:text="太极图"
+                android:onClick="onClickTaijiViewListener"
+                />
         </LinearLayout>
     </ScrollView>
 

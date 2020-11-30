@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
     public void onClickBaseViewListener(View view) {
         startActivity(new Intent(this,DrawBaseViewActivity.class));
     }
+
+    public void onClickTaijiViewListener(View view) {
+        startActivity(new Intent(this,TaiJiActivity.class));
+    }
 }

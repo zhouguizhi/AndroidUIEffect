@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DrawBaseViewActivity"/>
+        <activity android:name=".TaiJiActivity"/>
     </application>
 
 </manifest>
