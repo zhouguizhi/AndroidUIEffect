@@ -17,4 +17,16 @@ public class MainActivity extends AppCompatActivity {
     public void onClickTaijiViewListener(View view) {
         startActivity(new Intent(this,TaiJiActivity.class));
     }
+
+    public void OnLopperViewListener(View view) {
+        startActivity(new Intent(this,LooperMsgActivity.class));
+    }
+
+    public void OnTestConstraintListener(View view) {
+        startActivity(new Intent(this,TestConstraintActivity.class));
+    }
+
+    public void OnTestAnimListener(View view) {
+        startActivity(new Intent(this,TestAnimActivity.class));
+    }
 }

@@ -9,7 +9,7 @@ import android.view.View;
 import androidx.annotation.Nullable;
 import com.zgz.androiduieffect.util.DisplayUtil;
 /**
- * @Description: java类作用描述
+ * @Description: 太极图
  * @Author: zhouguizhi
  * @CreateDate: 2020/11/30 下午9:38
  * @Version: 1.0

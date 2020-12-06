@@ -18,6 +18,9 @@
         </activity>
         <activity android:name=".DrawBaseViewActivity"/>
         <activity android:name=".TaiJiActivity"/>
+        <activity android:name=".LooperMsgActivity"/>
+        <activity android:name=".TestConstraintActivity"/>
+        <activity android:name=".TestAnimActivity"/>
     </application>
 
 </manifest>
