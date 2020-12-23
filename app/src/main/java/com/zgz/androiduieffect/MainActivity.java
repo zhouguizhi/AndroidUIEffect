@@ -29,4 +29,12 @@ public class MainActivity extends AppCompatActivity {
     public void OnTestAnimListener(View view) {
         startActivity(new Intent(this,TestAnimActivity.class));
     }
+
+    public void OnTestPaintListener(View view) {
+        startActivity(new Intent(this,TestPaintActivity.class));
+    }
+
+    public void OnMaterialDesignListener(View view) {
+        startActivity(new Intent(this,MaterialDesignActivity.class));
+    }
 }

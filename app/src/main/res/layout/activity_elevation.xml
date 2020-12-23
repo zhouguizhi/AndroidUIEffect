@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:background="#f00"
+        android:text="A"
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:onClick="onTestMethod1"
+        android:elevation="1dp"
+        android:translationZ="10dp"
+        />
+    <TextView
+        android:background="#0f0"
+        android:text="B"
+        android:gravity="center"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="60dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:onClick="onTestMethod2"
+        />
+
+    <!--ViewC有了一个elevation属性 -->
+    <TextView
+        android:layout_marginLeft="180dp"
+        android:background="#f00"
+        android:text="C"
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:onClick="onTestMethod3"
+        />
+    <TextView
+        android:background="#0f0"
+        android:text="D"
+        android:gravity="center"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="60dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:onClick="onTestMethod4"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:text="sssss"
+        android:elevation="5dp"
+        android:background="#eee"
+        />
+</FrameLayout>
