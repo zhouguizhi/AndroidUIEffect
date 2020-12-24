@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidUIEffect</string>
+    <string name="floatactionbutton_text">Hello,floatactionbutton</string>
 </resources>

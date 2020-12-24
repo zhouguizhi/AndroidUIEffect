@@ -3,4 +3,14 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="color_43d28d">#43d28d</color>
+    <color name="color_005eaa">#005eaa</color>
+    <color name="Green300">#42bd41</color>
+    <color name="Green400">#2baf2b</color>
+    <color name="Green500">#259b24</color>
+    <color name="Green600">#0a8f08</color>
+    <color name="Green700">#0a7e07</color>
+    <color name="Green800">#056f00</color>
+    <color name="Green900">#0d5302</color>
+    <color name="Grey700">#616161</color>
 </resources>

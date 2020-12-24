@@ -23,4 +23,11 @@ public class MaterialDesignActivity extends AppCompatActivity {
     public void OnElevationAttrActivity(View view) {
         startActivity(new Intent(this,ElevationAttrActivity.class));
     }
+    public void OnFloatingActionButtonActivity(View view) {
+        startActivity(new Intent(this,FloatingActionButtonActivity.class));
+    }
+
+    public void OnSnackbarActivity(View view) {
+        startActivity(new Intent(this,SnackbarActivity.class));
+    }
 }
